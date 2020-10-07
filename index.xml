@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Моё тестовое задание для documentat.io</title>
+    <link>sashainthewild.github.io/</link>
+    <description>Recent content in Introduction on Моё тестовое задание для documentat.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate><atom:link href="sashainthewild.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Вторая страница</title>
+      <link>sashainthewild.github.io/docs/guide-lets-encyrpt-for-nginx-ru/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>sashainthewild.github.io/docs/guide-lets-encyrpt-for-nginx-ru/</guid>
+      <description>Здесь будет вторая инструкция #  Нужно подождать еще чуть-чуть и я смогу :)</description>
+    </item>
+    
+    <item>
+      <title>Как включить на вашем сайте HTTPS с помощью Let’s Encrypt</title>
+      <link>sashainthewild.github.io/docs/guide-lets-encrypt-ru/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>sashainthewild.github.io/docs/guide-lets-encrypt-ru/</guid>
+      <description>Как включить на вашем сайте HTTPS с помощью Let&amp;rsquo;s Encrypt #  Let’s Encrypt представляет собой некоммерческий центр сертификации (Certificate Authority, CA), позволяющий бесплатно получать, устанавливать и обновлять сертификаты TLS/SSL. Процесс получения сертификатов упрощается за счёт наличия ACME-клиента Certbot, который автоматизирует практически все необходимые операции, в том числе и для Apache.
+Несмотря на то, что SSL-сертификаты Let’s Encrypt бесплатны — это не означает, что уровень их шифрования ниже, чем у платных сертификатов.</description>
+    </item>
+    
+  </channel>
+</rss>
