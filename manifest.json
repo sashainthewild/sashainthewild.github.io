@@ -1,14 +1,14 @@
 {
   "name": "Моё тестовое задание для documentat.io",
   "short_name": "Моё тестовое задание для documentat.io",
-  "start_url": "/sashainthewild.github.io/",
-  "scope": "/sashainthewild.github.io/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/sashainthewild.github.io/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
