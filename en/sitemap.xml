@@ -18,7 +18,12 @@
   </url>
   
   <url>
-    <loc>sashainthewild.github.io/en/docs/guide-lets-encrypt-en/</loc>
+    <loc>sashainthewild.github.io/en/docs/guide-lets-encrypt-for-apache-en/</loc>
+    <lastmod>2019-03-26T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>sashainthewild.github.io/en/docs/guide-lets-encrypt-for-nginx-en/</loc>
     <lastmod>2019-03-26T08:47:11+01:00</lastmod>
   </url>
   
