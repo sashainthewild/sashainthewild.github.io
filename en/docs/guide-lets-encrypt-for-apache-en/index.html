@@ -205,7 +205,7 @@ https://github.com/alex-shpak/hugo-book
 <pre><code>$ sudo add-apt-repository ppa:certbot/certbot
 </code></pre><p>Next press <code>ENTER</code>.</p>
 <p>Install the Certbot Apache package using <code>apt</code>:</p>
-<pre><code>$ sudo apt install python-certbot-apache
+<pre><code>$ sudo apt install python3-certbot-apache
 </code></pre><p>Certbot is now ready to use. But at first, we need to check the Apache settings, In order for it to be able to configure SSL for Apache.</p>
 <h2 id="step-2-configuring-an-ssl-certificate">
   Step 2. Configuring an SSL certificate
@@ -263,7 +263,7 @@ Apache Full (v6)           ALLOW       Anywhere (v6)
   <a class="anchor" href="#step-4-obtaining-an-ssl-certificate">#</a>
 </h2>
 <p>Certbot provides several ways to obtain SSL certificates using plugins. The Apache plugin assumes the configure of Apache and reload the configuration when needed. To use the plugin, run the command:</p>
-<pre><code>$ sudo certbot --apache -d example.com -d www.example.com
+<pre><code>$ sudo certbot --apache -d documentat.io -d www.documentat.io
 </code></pre><p>This command runs <strong>certbot</strong> with the <code>-apache</code> plugin, the <code>d</code> keys specify the domain names for which the certificate should be issued.</p>
 <p>Since this is the first time you run <strong>certbot</strong>, you will be prompted to enter your email address and agree to the terms of use of the service. The <strong>certbot</strong> will then contact the Let’s Encrypt server and then verify that you really control the domain for which you requested the certificate.</p>
 <p>If everything went well, <strong>certbot</strong> will ask how you want to set up your HTTPS configuration.</p>
